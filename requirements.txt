@@ -1,0 +1,4 @@
+Flask
+spyne
+wsgiref
+flask-cors
